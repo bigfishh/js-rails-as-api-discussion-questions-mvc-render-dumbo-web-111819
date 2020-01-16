@@ -19,7 +19,7 @@ class ResponsesController < ApplicationController
   def json
     data = {
       author: "Cookie Monster",
-      quote:"Early bird gets the worm. But cookie taste better than worm. So me sleep in.",
+      quote:"Early bird gets th worm. But cookie taste better than worm. So me sleep in.",
     }
   end
 
